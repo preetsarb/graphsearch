@@ -1,0 +1,30 @@
+Feature:
+ ☐ Object graph mapper
+ ☐ Schema builder
+ ☐ Migration and seeding
+ ☐ Authentication
+ ☐ Cache
+ ☐ Log
+ ☐ Localization
+ ☐ Pagination
+ ☐ Validation
+ ☐ Command line interface
+ ☐ Access control list
+
+Documentation:
+ ☐ Contribution guide
+ ☐ Query builder
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+ ✔ Configuration @done (14-11-05 11:52) @project(Documentation)
+ ✔ Basic usage @done (14-11-05 11:52) @project(Documentation)
+  Connection, events, status, collection
+ ✔ Error handling @done (14-11-05 11:52) @project(Documentation)
+ ✔ Transaction @done (14-11-05 11:52) @project(Documentation)
+ ✔ Laravel 5 @done (14-11-05 11:52) @project(Documentation)
+ ✔ Query builder @done (14-11-05 11:52) @project(Feature)
+ ✔ Installation @done (14-10-31 15:51) @project(Documentation)
+ ✔ Home @done (14-10-31 15:51) @project(Documentation)
+ ✔ Event @done (14-10-31 11:46) @project(Feature)
+ ✔ Service provider @done (14-10-31 11:45) @project(Feature)
+ ✔ Facades @done (14-10-31 11:45) @project(Feature)
